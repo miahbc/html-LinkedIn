@@ -1,1 +1,15 @@
 /* write styles here */
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: rgb(2, 2, 57);
+    font-size: large;
+}
+
+h2 {
+    color: rgb(2, 2, 57);
+    font-size: medium;
+}
+        <p class="text-block" >Someone please hire me!</p>
